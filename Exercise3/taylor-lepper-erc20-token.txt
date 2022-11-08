@@ -1,0 +1,3 @@
+ERC20 Token Taylor Lepper Mod3
+
+https://ropsten.etherscan.io/tx/0xf16135dfdfe3d8443cae36734e8663c0d9e400cc9afaac794a00e44b824b24e4
